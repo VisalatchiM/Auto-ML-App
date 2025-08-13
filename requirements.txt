@@ -3,3 +3,6 @@ pandas
 numpy
 scikit-learn
 seaborn==0.12.2
+plotly>=5.0.0
+
+
